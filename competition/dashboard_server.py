@@ -19,7 +19,7 @@ import html
 import sys
 
 # ============ 配置 ============
-PORT = 8080
+PORT = 9090
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # 项目根目录
 SCORES_FILE = os.path.join(BASE_DIR, "competition", "competition_scores_v5.json")
 METASTABLE_FILE = os.path.join(BASE_DIR, "competition", "metastable_candidates.json")

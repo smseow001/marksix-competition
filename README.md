@@ -15,7 +15,7 @@
 # 启动 Web Dashboard
 cd competition
 python3 dashboard_server.py
-# 浏览器打开 http://localhost:8080
+# 浏览器打开 http://localhost:9090
 ```
 
 ## 核心文件
